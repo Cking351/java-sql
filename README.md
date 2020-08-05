@@ -204,26 +204,26 @@ Below are some empty tables to be used to normalize the database
 * Not all of the cells will contain data in the final solution
 * Feel free to edit these tables as necessary
 
-Table Name:
+Table Name: People
 
+|            |            |            |  Fenced    |    City    |            |            | id           | name                  |  Yard          Dweller
+|------------|------------|------------|------------|------------|------------|-------------|------------|------------|                
+|  1         |   Jane     |            |  No        |     Yes    |            |           |  2         |   Bob      |               No              No
+|  3         |   Sam      |            |  Yes       |     No     |            |            |            |            |
 |            |            |            |            |            |            |            |            |            |
+|            |            |            |            |            |            |            |            |            |
+|            |            |            |            |            |            |            |            |            |
+|            |            |            |            |            |            |            |            |            |
+|            |            |            |            |            |            |            |            |            |
+
+Table Name: Pets
+
+|            |            |            |            |            |            |            |   id       |    name     |  type         
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-
-Table Name:
-
-|            |            |            |            |            |            |            |            |            |
-|------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
-|            |            |            |            |            |            |            |            |            |
+|     1      |   Ellie    |     Dog    |            |            |            |            |     2      |   Joe      |    Horse
+|     3      |   Ginger   |    Dog     |            |            |            |            |     4      |   Tiger    |    Cat
+|     5      |Miss Kitty  |    Cat     |            |            |            |            |     6      |   Toby     |   Turtle
+|     7      |   Bubble   |   Fish     |            |            |            |            |            |            |
 |            |            |            |            |            |            |            |            |            |
 |            |            |            |            |            |            |            |            |            |
 |            |            |            |            |            |            |            |            |            |
